@@ -1,0 +1,12 @@
+name: CratePlugin
+version: ${project.version}
+main: de.schornyy.crate.crateplugin.CratePlugin
+api-version: 1.13
+authors: [schornyy]
+
+commands:
+  crate:
+  settings:
+  openall:
+  interactitem:
+  shop:
